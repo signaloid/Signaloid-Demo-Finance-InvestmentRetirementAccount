@@ -90,7 +90,7 @@ main(int argc, char *  argv[])
 	}
 
 	/*
-	 *	Allocate for monteCarloOutputSamples if in Monte Carlo mode.
+	 *	Allocate for `monteCarloOutputSamples` if in Monte Carlo mode.
 	 */
 	if (arguments.common.isMonteCarloMode)
 	{
