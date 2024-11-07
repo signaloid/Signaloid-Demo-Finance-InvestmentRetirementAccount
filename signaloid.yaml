@@ -1,0 +1,9 @@
+MinimumCore:
+    Microarchitecture: Athens
+    MemorySize: 16000000
+    Precision: 64
+
+TraceVariables:
+    - File: "main.c"
+      LineNumber: 42
+      Expression: "outputDistributions[0:1]"
